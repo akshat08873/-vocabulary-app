@@ -1,1 +1,1 @@
-# -vocabulary-app
+# vocabulary-app
